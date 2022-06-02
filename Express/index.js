@@ -6,7 +6,7 @@ var app = express()
 //     res.write("Hello");
 //     res.end();
 // }).listen(3000,()=>{
-//     console.log("server staeted");
+//     console.log("server started");
 // })
 
 app.get("/",(req,res)=>{
